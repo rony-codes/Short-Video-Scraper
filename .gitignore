@@ -1,0 +1,21 @@
+# Environment variables (contains your API key!)
+.env
+
+# Dependencies
+node_modules/
+
+# Downloaded videos (user-generated content, not source code)
+downloads/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
