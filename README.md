@@ -43,7 +43,7 @@ Before running this project, make sure you have:
    SERPAPI=your_serpapi_key_here
    ```
 
-   > ⚠️ Never commit your `.env` file. Make sure it's listed in `.gitignore`.
+ 
 
 4. **Run the server**
    ```bash
